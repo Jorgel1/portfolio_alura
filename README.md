@@ -13,6 +13,6 @@
 
 ### Jorge Ramos
 
-<a href="">Visualiza meu repositorio</a>
+<a href="https://jorgel1.github.io/portfolio_alura/">Visualiza meu repositorio</a>
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
